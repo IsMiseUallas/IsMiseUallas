@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsMiseUallas, My full name is Uallas Lime, You can call me Wallace or Uallas
 - 👀 I’m interested in languages and coding
-- 🌱 I’m currently learning Python and things about Chromium and ChromiumOS
+- 🌱 I’m currently learning Python and Linux 
 
 <!---
 IsMiseUallas/IsMiseUallas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
